@@ -128,13 +128,13 @@ This debugging process helped me understand that implementing a reversible gate 
 
 ---
 
-Files
+## Files
 
-[""toffoli_sim_v1.py""]
+[**toffoli_sim_v1.py**](./toffoli_sim_v1.py)
 
 Initial implementation containing the control-condition logic error.
 
-"["toffoli_sim_v2.py""]
+[**toffoli_sim_v2.py**](./toffoli_sim_v2.py)
 
 Corrected implementation using the proper Toffoli condition.
 
